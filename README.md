@@ -1,5 +1,5 @@
 <hr>
-<center><h3>IP CALCULATOR</h3></center>
+<h3>IP CALCULATOR</h3>
 <hr>
 
 IP Calculator is an application designed to compute Subnet ID & Host ID using IP and subnet mask. 
@@ -19,3 +19,4 @@ IP Calculator is an application designed to compute Subnet ID & Host ID using IP
 2)Design GUI version of a programm
 
 3)Broadcast info
+<hr>
